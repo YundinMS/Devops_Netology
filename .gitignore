@@ -1,0 +1,7 @@
+**/.terraform/*
+
+# .tfstate files
+*.tfstate.*
+
+# Crash log files
+crash.log
