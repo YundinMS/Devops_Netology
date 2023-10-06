@@ -9,7 +9,13 @@ Created and added .gitignore in project Terraform.
 
 The following parameters will be placed in the .gitignore file
 
-*.tfstate.* - configurations status, all files wuth this extension 
+```
+**/.terraform/* - Local directories associated with terraform will be ignored
+```
 
+```
+*.tfstate.* - configurations status, all files wuth this extension 
+```
+```
 *crash.log - all logs witch errors will also be placed
- 
+```
