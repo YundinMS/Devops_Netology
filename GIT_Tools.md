@@ -50,7 +50,7 @@ dd01a35078f040ca984cdd349f18d0b67e486c35 Update CHANGELOG.md
 8364383c35 Push plugin discovery down into command package
 ```
 
-6. git log -S'synchronizedWriters' --first-parent --pretty=format:'%an "%ae"'
+6. git log -S'synchronizedWriters' --first-parent --pretty=format:'%an "%ae"' Автор данной функции.
 
 ```
 Martin Atkins "mart@degeneration.co.uk"
